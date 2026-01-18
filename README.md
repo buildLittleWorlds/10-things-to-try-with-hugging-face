@@ -113,9 +113,9 @@ pip install transformers torch numpy
 
 After completing this course:
 
+- **Vision Course**: Continue with [10 Things to Try with Vision Transformers](https://github.com/buildLittleWorlds/10-things-to-try-vision-transformers) - the sequel course covering ViT, CLIP, Stable Diffusion, and more
 - **Fine-tuning**: Train models on your own data with the [Hugging Face Course](https://huggingface.co/course)
 - **Larger Models**: Try `deberta-v3-large`, `flan-t5-large`
-- **Multimodal**: Explore Vision Transformers (ViT) and CLIP
 - **Advanced**: Quantization, PEFT/LoRA, deployment with FastAPI or Gradio, RAG
 
 ---
